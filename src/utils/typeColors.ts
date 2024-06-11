@@ -1,0 +1,20 @@
+export const pokemonTypeColors: {[key:string]:string} = {
+  "normal": "bg-[#A8A77A] text-black/80",
+  "fire": "bg-[#EE8130] text-black/80",
+  "water": "bg-[#6390F0] text-white",
+  "electric": "bg-[#F7D02C] text-black/80",
+  "grass": "bg-[#7AC74C] text-black/80",
+  "ice": "bg-[#96D9D6] text-black/80",
+  "fighting": "bg-[#C22E28] text-white",
+  "poison": "bg-[#A33EA1] text-white",
+  "ground": "bg-[#E2BF65] text-black/80",
+  "flying": "bg-[#A98FF3] text-black/80",
+  "psychic": "bg-[#F95587] text-white",
+  "bug": "bg-[#A6B91A] text-black/80",
+  "rock": "bg-[#B6A136] text-black/80",
+  "ghost": "bg-[#735797] text-white",
+  "dragon": "bg-[#6F35FC] text-white",
+  "dark": "bg-[#705746] text-white",
+  "steel": "bg-[#B7B7CE] text-black/80",
+  "fairy": "bg-[#D685AD] text-black/80"
+}
